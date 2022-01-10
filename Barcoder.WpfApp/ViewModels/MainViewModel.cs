@@ -5,6 +5,6 @@ namespace Barcoder.WpfApp.ViewModels
 {
     public class MainViewModel : ReactiveObject
     {
-        [Reactive] public string Barcode { get; set; } = string.Empty;
+        [Reactive] public string Barcode { get; set; } = "123456789012";
     }
 }
