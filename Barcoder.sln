@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barcoder.WpfApp", "Barcoder.WpfApp\Barcoder.WpfApp.csproj", "{40A9F01D-FBE4-4F9C-8E59-2CE2E61FF4DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Barcoder.WpfApp", "Barcoder.WpfApp\Barcoder.WpfApp.csproj", "{40A9F01D-FBE4-4F9C-8E59-2CE2E61FF4DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barcoder.WpfApp48", "Barcoder.WpfApp48\Barcoder.WpfApp48.csproj", "{800E8C2D-BE80-4EC6-88C4-835539A99A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{40A9F01D-FBE4-4F9C-8E59-2CE2E61FF4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40A9F01D-FBE4-4F9C-8E59-2CE2E61FF4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40A9F01D-FBE4-4F9C-8E59-2CE2E61FF4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800E8C2D-BE80-4EC6-88C4-835539A99A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800E8C2D-BE80-4EC6-88C4-835539A99A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800E8C2D-BE80-4EC6-88C4-835539A99A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800E8C2D-BE80-4EC6-88C4-835539A99A13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
